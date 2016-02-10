@@ -1,0 +1,22 @@
+{
+  "name": "gauge-js-selenium-webdriver",
+  "version": "1.0.0",
+  "description": "Gauge-JS with Selenium webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renjithgr/gauge-js-selenium-webdriver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renjithgr/gauge-js-selenium-webdriver/issues"
+  },
+  "homepage": "https://github.com/renjithgr/gauge-js-selenium-webdriver#readme",
+  "devDependencies": {
+    "selenium-webdriver": "^2.48.2"
+  }
+}
